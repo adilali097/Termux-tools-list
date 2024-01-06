@@ -77,3 +77,68 @@ Certainly! Below is a list of a few tools along with their corresponding GitHub 
 | readline          | [Readline GitHub](https://github.com/ianlancetaylor/readline) |
 | zlib              | [zlib GitHub](https://github.com/madler/zlib)    |
 
+Certainly! Here's a list of additional Termux tools, along with their names and, where applicable, GitHub links. Please note that some tools may not have official GitHub repositories or may be hosted on other platforms.
+
+| Tool Name           | GitHub Link                                      |
+| ------------------- | ------------------------------------------------- |
+| termux-api          | [termux-api GitHub](https://github.com/termux/termux-api) |
+| termux-auth         | [termux-auth GitHub](https://github.com/termux/termux-auth) |
+| termux-create-package | [termux-create-package GitHub](https://github.com/termux/termux-create-package) |
+| termux-exec         | [termux-exec GitHub](https://github.com/termux/termux-exec) |
+| termux-tools        | [termux-tools GitHub](https://github.com/termux/termux-tools) |
+| termux-apt-repo     | [termux-apt-repo GitHub](https://github.com/termux/termux-apt-repo) |
+| termux-clipboard-api | [termux-clipboard-api GitHub](https://github.com/termux/termux-clipboard-api) |
+| termux-infrared-api | [termux-infrared-api GitHub](https://github.com/termux/termux-infrared-api) |
+| termux-notification-api | [termux-notification-api GitHub](https://github.com/termux/termux-notification-api) |
+| termux-root         | [termux-root GitHub](https://github.com/termux/termux-root) |
+| termux-widget       | [termux-widget GitHub](https://github.com/termux/termux-widget) |
+| tsu                 | [tsu GitHub](https://github.com/cswl/tsu)         |
+| sftp                | No specific GitHub repository                   |
+| proot               | [proot GitHub](https://github.com/proot-me/proot) |
+| libzip              | [libzip GitHub](https://github.com/nih-at/libzip) |
+| ncurses             | [ncurses GitHub](https://github.com/mirror/ncurses) |
+| tree                | [tree GitHub](https://github.com/nodakai/tree-command) |
+| figlet              | [figlet GitHub](https://github.com/cmatsuoka/figlet) |
+| toilet              | [toilet GitHub](https://github.com/cacalabs/toilet) |
+| cmatrix             | [cmatrix GitHub](https://github.com/abishekvashok/cmatrix) |
+| sl                  | [sl GitHub](https://github.com/mtoyoda/sl)        |
+| hollywood           | [hollywood GitHub](https://github.com/dustinkirkland/hollywood) |
+| lolcat              | [lolcat GitHub](https://github.com/busyloop/lolcat) |
+| taskwarrior         | [taskwarrior GitHub](https://github.com/GothenburgBitFactory/taskwarrior) |
+| ranger              | [ranger GitHub](https://github.com/ranger/ranger)  |
+| cava                | [cava GitHub](https://github.com/karlstav/cava)   |
+| neovim              | [neovim GitHub](https://github.com/neovim/neovim) |
+| termux-neovim       | [termux-neovim GitHub](https://github.com/termux/termux-neovim) |
+| vim-plug            | [vim-plug GitHub](https://github.com/junegunn/vim-plug) |
+| fzf                 | [fzf GitHub](https://github.com/junegunn/fzf)     |
+| jq                  | [jq GitHub](https://github.com/stedolan/jq)      |
+| tig                 | [tig GitHub](https://github.com/jonas/tig)        |
+| mcabber             | [mcabber GitHub](https://github.com/McKael/mcabber) |
+| irssi               | [irssi GitHub](https://github.com/irssi/irssi)    |
+| weechat             | [weechat GitHub](https://github.com/weechat/weechat) |
+| tmate               | [tmate GitHub](https://github.com/tmate-io/tmate) |
+| rclone              | [rclone GitHub](https://github.com/rclone/rclone) |
+| task                | [task GitHub](https://github.com/go-task/task)    |
+| pandoc              | [pandoc GitHub](https://github.com/jgm/pandoc)    |
+| ffmpeg              | [ffmpeg GitHub](https://github.com/FFmpeg/FFmpeg) |
+| darkhttpd           | [darkhttpd GitHub](https://github.com/ryanmjacobs/darkhttpd) |
+| python-tzlocal      | [python-tzlocal GitHub](https://github.com/regebro/tzlocal) |
+| httpie              | [httpie GitHub](https://github.com/httpie/httpie) |
+| exa                 | [exa GitHub](https://github.com/ogham/exa)       |
+| bat                 | [bat GitHub](https://github.com/sharkdp/bat)     |
+| fd                  | [fd GitHub](https://github.com/sharkdp/fd)       |
+| hexyl               | [hexyl GitHub](https://github.com/sharkdp/hexyl) |
+| dust                | [dust GitHub](https://github.com/bootandy/dust)  |
+| starship            | [starship GitHub](https://github.com/starship/starship) |
+| zoxide              | [zoxide GitHub](https://github.com/ajeetdsouza/zoxide) |
+| bottom              | [bottom GitHub](https://github.com/ClementTsang/bottom) |
+| lsd                 | [lsd GitHub](https://github.com/Peltoche/lsd)    |
+| exiftool            | [exiftool GitHub](https://github.com/exiftool/exiftool) |
+| mlocate             | [mlocate GitHub](https://github.com/linux-kernel-mentees/mlocate) |
+| ripgrep             | [ripgrep GitHub](https://github.com/BurntSushi/ripgrep) |
+| sd                  | [sd GitHub](https://github.com/chmln/sd)         |
+| tokei               | [tokei GitHub](https://github.com/XAMPPRocky/tokei) |
+| dust                | [dust GitHub](https://github.com/bootandy/dust)  |
+| zsh-syntax-highlighting | [zsh-syntax-highlighting GitHub](https://github.com/zsh-users/zsh-syntax-highlighting) |
+| zsh-autosuggestions | [zsh-autosuggestions GitHub](https://github.com/zsh-users/zsh-autosuggestions) |
+
